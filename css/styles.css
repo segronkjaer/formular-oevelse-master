@@ -1,0 +1,17 @@
+/* Dine styles her */
+form {
+  padding: 2rem;
+  background: hsl(0, 0%, 77%);
+  border-radius: 8px;
+}
+
+form {
+  display: grid;
+  gap: 2rem;
+}
+
+.form-felt {
+  display: grid;
+  gap: 3px;
+}
+ 
